@@ -1,2 +1,2 @@
 # JS-Calculator
-Calculator in JavaScript
+Calculator in JavaScript with Html buttons
