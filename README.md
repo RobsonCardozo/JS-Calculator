@@ -1,2 +1,2 @@
 # JS-Calculator
-Calculator in JavaScript with Html buttons
+Calculator in JavaScript imitating W10 Calc
